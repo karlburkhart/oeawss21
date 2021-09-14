@@ -1,0 +1,10 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
+numpy
+matplotlib
+scipy
+sklearn
+seaborn
+jupyter
+voila
